@@ -11,7 +11,7 @@ contract CarbloxPreICO is Ownable {
     CarbloxToken token;
 
     uint256 public constant RATE = 7500;
-    uint256 public constant START = 1509980400; // Mon, 06 Nov 2017 15:00
+    uint256 public constant START = 1510315200; // Fri, 10 Nov 2017 12:00
     uint256 public constant DAYS = 30;
   
     uint256 public constant initialTokens = 7801500 * 10**3;
